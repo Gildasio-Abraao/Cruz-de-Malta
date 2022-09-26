@@ -1,0 +1,12 @@
+span {
+  content: '\2720';
+  font-size: 17rem;
+  color: #f00;
+}
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  width: 100%;
+}
